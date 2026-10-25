@@ -1,6 +1,9 @@
 # 🧰 Fabry Toolbox
 
-Raccolta di utility PowerShell per Windows, focalizzate su automazione e semplicità d'uso.
+Raccolta di utility PowerShell per Windows, nate da bisogni reali, focalizzate su automazione e semplicità d'uso: 
+software commerciale troppo caro, o nessuna soluzione disponibile.
+
+Oggi le condivido perché so che altri hanno lo stesso problema.
 
 ## 🎵 Audio
 - **[MP3_Normalizza](https://github.com/fabrytoolbox/MP3_Normalizza)** — Normalizzatore EBU R128 con dry-run, log ed esclusioni.
