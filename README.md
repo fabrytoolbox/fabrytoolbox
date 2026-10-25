@@ -9,5 +9,8 @@ Raccolta di utility PowerShell per Windows, focalizzate su automazione e semplic
 ## 🖥️ Sistema
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
 
+## 🖥️ Video
+-**[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converti video in frame con upscale.
+
 ## 📬 Contatti
 - Per segnalazioni o idee, apri una **Issue** nel repository di riferimento.
