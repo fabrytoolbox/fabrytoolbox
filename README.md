@@ -16,6 +16,9 @@ Oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Sistema
 - **[DeepSeek-Chat-Exporter](https://github.com/fabrytoolbox/DeepSeek-Chat-Exporter)** — Converte le conversazioni estratte da DeepSeek in TXT o in HTML
 
+## 🖥️ Sistema
+- **[NetAdapter-Manager](https://github.com/fabrytoolbox/NetAdapter-Manager)** — Gestione avanzata delle schede di rete IP, DNS, DHCP; SubNet Mask e Gateway
+
 ## 🖥️ Video
 - **[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converte video in singoliframe con upscale.
 
