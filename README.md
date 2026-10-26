@@ -25,5 +25,8 @@ Oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Video
 - **[Fabry-MKV-Converter](https://github.com/fabrytoolbox/Fabry-MKV-Converter)** - Converte video MKV a MP4 o da H265 a H264
 
+## 🖥️ Video
+- **[Video-Scene-Splitter](https://github.com/fabrytoolbox/Video-Scene-Splitter.git)** - Estrae scene da video con GUI Matrix, auto-FFmpeg
+
 ## 📬 Contatti
 - Per segnalazioni o idee, apri una **Issue** nel repository di riferimento.
