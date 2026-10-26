@@ -13,6 +13,9 @@ Oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Sistema
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
 
+## 🖥️ Sistema
+- **[DeepSeek-Chat-Exporter](https://github.com/fabrytoolbox/DeepSeek-Chat-Exporter)** — Converte le conversazioni estratte da DeepSeek in TXT o in HTML
+
 ## 🖥️ Video
 - **[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converte video in singoliframe con upscale.
 
