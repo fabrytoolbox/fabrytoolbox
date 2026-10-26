@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=fabrytoolbox&label=Profile%20Views&color=0e75b6&style=flat)
 # 🧰 Fabry Toolbox
 
 Raccolta di utility PowerShell per Windows, nate da bisogni reali, focalizzate su automazione e semplicità d'uso: 
