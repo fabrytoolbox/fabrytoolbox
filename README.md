@@ -30,6 +30,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Sistema
 - **[System-Sentinel-Matrix](https://github.com/fabrytoolbox/System-Sentinel-Matrix)** — Task Manager Matrix con protezione processi critici
 
+## 🖥️ Sistema
+- **[Subst-Manager](https://github.com/fabrytoolbox/Subst-Manager)** — GUI per gestione comando Subst con persistenza all'avvio
+
 ## 🖥️ Video
 - **[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converte video in singoliframe con upscale.
 
