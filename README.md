@@ -8,7 +8,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 
 ## 🎵 Audio
 - **[MP3_Normalizza](https://github.com/fabrytoolbox/MP3_Normalizza)** — Normalizzatore EBU R128 con dry-run, log ed esclusioni.
-- *(in arrivo)* **Video Scene Splitter** — Estrae scene da video usando FFmpeg.
+
+## 🎵 Audio
+- **[Audio-Silence-Tools](https://github.com/fabrytoolbox/Audio-Silence-Tools)** — Rileva e toglie i silenzi in testa e coda degli MP3
 
 ## 🖥️ Sistema
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
