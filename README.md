@@ -31,5 +31,9 @@ Oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Video
 - **[Video-Scene-Splitter](https://github.com/fabrytoolbox/Video-Scene-Splitter)** - Estrae scene da video con GUI Matrix, auto-FFmpeg
 
+## 🖥️ Immagini
+- **[Image-Converter](https://github.com/fabrytoolbox/Image-Converter)** - Convertitore immagini (WebP, PNG, JPEG) con ottimizzazione e sharpening
+
+
 ## 📬 Contatti
 - Per segnalazioni o idee, apri una **Issue** nel repository di riferimento.
