@@ -24,6 +24,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Sistema
 - **[IsoMounter-Matrix]( https://github.com/fabrytoolbox/IsoMounter-Matrix)** — Monta e smonta ISO con GUI Matrix, log e pulizia automatica
 
+## 🖥️ Sistema
+- **[Norton-NIS-RAM-Monitor](https://github.com/fabrytoolbox/Norton-NIS-RAM-Monitor)** — Monitora il consumo di RAM dei processi di Norton Internet Security
+
 ## 🖥️ Video
 - **[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converte video in singoliframe con upscale.
 
