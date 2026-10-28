@@ -33,6 +33,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🖥️ Sistema
 - **[Subst-Manager](https://github.com/fabrytoolbox/Subst-Manager)** — GUI per gestione comando Subst con persistenza all'avvio
 
+## 🖥️ Sistema
+- **[App-Uninstaller-Tool](https://github.com/fabrytoolbox/App-Uninstaller-Tool)** — Disinstallatore robusto con Ghost Hunter, Deep Scan, GUI Matrix e CLI
+
 ## 🖥️ Video
 - **[Fabry-Frame-Extractor](https://github.com/fabrytoolbox/Fabry-Frame-Extractor)** - Converte video in singoliframe con upscale.
 
