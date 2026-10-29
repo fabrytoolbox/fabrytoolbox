@@ -23,6 +23,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[SmartFolder-Archiver](https://github.com/fabrytoolbox/SmartFolder-Archiver)** — Sistema per Backup di cartelle full/incrementale con 7zip con Gui Matrix
 - **[RestorePoint-Manager](https://github.com/fabrytoolbox/RestorePoint-Manager)** — Gestione avanzata dei punti di ripristino Windows con GUI Matrix
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
+- **[Neo-Locale-Switcher](https://github.com/fabrytoolbox/Neo-Locale-Switcher)** — Cambia layout tastiera e impostazioni regionali con stile Matrix
 
 
 ## 🖥️ Video
