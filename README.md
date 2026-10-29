@@ -22,6 +22,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[App-Uninstaller-Tool](https://github.com/fabrytoolbox/App-Uninstaller-Tool)** — Disinstallatore robusto con Ghost Hunter, Deep Scan, GUI Matrix e CLI
 - **[SmartFolder-Archiver](https://github.com/fabrytoolbox/SmartFolder-Archiver)** — Sistema per Backup di cartelle full/incrementale con 7zip con Gui Matrix
 - **[RestorePoint-Manager](https://github.com/fabrytoolbox/RestorePoint-Manager)** — Gestione avanzata dei punti di ripristino Windows con GUI Matrix
+- **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
 
 
 ## 🖥️ Video
