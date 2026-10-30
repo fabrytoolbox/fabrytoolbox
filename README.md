@@ -24,6 +24,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[RestorePoint-Manager](https://github.com/fabrytoolbox/RestorePoint-Manager)** — Gestione avanzata dei punti di ripristino Windows con GUI Matrix
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
 - **[Neo-Locale-Switcher](https://github.com/fabrytoolbox/Neo-Locale-Switcher)** — Cambia layout tastiera e impostazioni regionali con stile Matrix
+- **[Spotlight-Reset](https://github.com/fabrytoolbox/Spotlight-Reset)** — Resetta la cache di Windows Spotlight e riavvia Esplora risorse
 
 
 ## 🖥️ Video
