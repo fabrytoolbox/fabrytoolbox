@@ -40,6 +40,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🤖 Dati & AI
 - **[DeepSeek-Chat-Exporter](https://github.com/fabrytoolbox/DeepSeek-Chat-Exporter)** — Converte le conversazioni estratte da DeepSeek in TXT o in HTML
 
+### 📺 Media Server
+- **[JellyFin-Gen-nfo]([https://github.com/fabrytoolbox/JellyFin-Gen-nfo])** — Generatore e modificatore di metadati NFO per Jellyfin/Kodi con GUI Matrix.
+
 ## 🖥️ Immagini
 - **[Image-Converter](https://github.com/fabrytoolbox/Image-Converter)** - Convertitore immagini (WebP, PNG, JPEG) con ottimizzazione e sharpening
 - **[Batch-Image-Resizer](https://github.com/fabrytoolbox/Batch-Image-Resizer)** - Ridimensiona in batch immagini (JPG/PNG) a 1080p, con CPU o GPU (CUDA)
