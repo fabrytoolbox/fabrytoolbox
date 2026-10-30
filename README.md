@@ -25,6 +25,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
 - **[Neo-Locale-Switcher](https://github.com/fabrytoolbox/Neo-Locale-Switcher)** — Cambia layout tastiera e impostazioni regionali con stile Matrix
 - **[Spotlight-Reset](https://github.com/fabrytoolbox/Spotlight-Reset)** — Resetta la cache di Windows Spotlight e riavvia Esplora risorse
+- **[Win11-Start-Repair](https://github.com/fabrytoolbox/Win11-Start-Repair)** — Ripara i componenti di Windows e registra i pacchetti AppX (menu Start)
 
 
 ## 🖥️ Video
