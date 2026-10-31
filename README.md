@@ -35,6 +35,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Video-joiner](https://github.com/fabrytoolbox/Video-Joiner)** - Unisce video con FFmpeg, filtri, NVENC e GUI Matrix
 - **[Video-From-Frames](https://github.com/fabrytoolbox/Video-From-Frames)** - Crea un video da una sequenza di frame JPG/PNG
 - **[Video-Upscaler](https://github.com/fabrytoolbox/Video-Upscaler)** - Converte e fa upscaling di video con FFmpeg (NVENC o CPU)
+- **[Move-Video-Smart](https://github.com/fabrytoolbox/Move-Video-Smart)** - Muove i video da 480p, 720p e 1080p nelle rispettive cartelle anche con dry-run
 
 ## 🎨 Interfaccia & UI
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
