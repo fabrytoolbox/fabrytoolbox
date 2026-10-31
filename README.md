@@ -20,6 +20,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[RestorePoint-Manager](https://github.com/fabrytoolbox/RestorePoint-Manager)** — Gestione avanzata dei punti di ripristino Windows con GUI Matrix
 - **[Spotlight-Reset](https://github.com/fabrytoolbox/Spotlight-Reset)** — Resetta la cache di Windows Spotlight e riavvia Esplora risorse
 - **[Win11-Start-Repair](https://github.com/fabrytoolbox/Win11-Start-Repair)** — Ripara i componenti di Windows e registra i pacchetti AppX (menu Start)
+- **[List-Applications-GUI](https://github.com/fabrytoolbox/List-Applications-GUI)** — Task Manager "umano" con GUI Matrix.
 
 ### 🛠️ Dev Tools
 - **[New-FabryRepo](https://github.com/fabrytoolbox/New-FabryRepo)** — Generatore universale di scaffolding per nuovi progetti PowerShell.
