@@ -21,6 +21,9 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Spotlight-Reset](https://github.com/fabrytoolbox/Spotlight-Reset)** — Resetta la cache di Windows Spotlight e riavvia Esplora risorse
 - **[Win11-Start-Repair](https://github.com/fabrytoolbox/Win11-Start-Repair)** — Ripara i componenti di Windows e registra i pacchetti AppX (menu Start)
 
+### 🛠️ Dev Tools
+- **[New-FabryRepo](https://github.com/fabrytoolbox/New-FabryRepo)** — Generatore universale di scaffolding per nuovi progetti PowerShell.
+
 ### 🌐 Rete
 - **[NetAdapter-Manager](https://github.com/fabrytoolbox/NetAdapter-Manager)** — Gestione avanzata delle schede di rete IP, DNS, DHCP; SubNet Mask e Gateway
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
