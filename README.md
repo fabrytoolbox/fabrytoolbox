@@ -36,6 +36,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Video-From-Frames](https://github.com/fabrytoolbox/Video-From-Frames)** - Crea un video da una sequenza di frame JPG/PNG
 - **[Video-Upscaler](https://github.com/fabrytoolbox/Video-Upscaler)** - Converte e fa upscaling di video con FFmpeg (NVENC o CPU)
 - **[Move-Video-Smart](https://github.com/fabrytoolbox/Move-Video-Smart)** - Muove i video da 480p, 720p e 1080p nelle rispettive cartelle anche con dry-run
+- **[MP4-Repair-Tool](https://github.com/fabrytoolbox/MP4-Repair-Tool)** - MP4-Repair-Tool (Untrunc Edition) - Recupero video X/Twitter
 
 ## 🎨 Interfaccia & UI
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
