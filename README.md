@@ -26,7 +26,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[New-FabryRepo](https://github.com/fabrytoolbox/New-FabryRepo)** — Generatore universale di scaffolding per nuovi progetti PowerShell.
 
 ### 🌐 Rete
-- **[NetAdapter-Manager v1.2 (Matrix-Style)](https://github.com/fabrytoolbox/NetAdapter-Manager) - Gestione Sk di rete con toggle Attiva/Disattiva, anti-lockout e GUI Matrix
+- **[NetAdapter-Manager v1.2 (Matrix-Style)](https://github.com/fabrytoolbox/NetAdapter-Manager) - Gestione Schede di rete con toggle Attiva/Disattiva, anti-lockout e GUI Matrix
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
 
 ## 🖥️ Video
