@@ -9,6 +9,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🎵 Audio
 - **[MP3_Normalizza](https://github.com/fabrytoolbox/MP3_Normalizza)** — Normalizzatore EBU R128 con dry-run, log ed esclusioni.
 - **[Audio-Silence-Tools](https://github.com/fabrytoolbox/Audio-Silence-Tools)** — Rileva e toglie i silenzi in testa e coda degli MP3
+- **[Matrix-Audio-Converter](https://github.com/fabrytoolbox/Matrix-Audio-Converter)** Convertitore audio multi-formato con GUI Matrix
 
 ## 🖥️ Sistema
 - **[IsoMounter-Matrix]( https://github.com/fabrytoolbox/IsoMounter-Matrix)** — Monta e smonta ISO con GUI Matrix, log e pulizia automatica
