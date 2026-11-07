@@ -39,7 +39,8 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Video-Upscaler](https://github.com/fabrytoolbox/Video-Upscaler)** - Converte e fa upscaling di video con FFmpeg (NVENC o CPU)
 - **[Move-Video-Smart](https://github.com/fabrytoolbox/Move-Video-Smart)** - Muove i video da 480p, 720p e 1080p nelle rispettive cartelle anche con dry-run
 - **[MP4-Repair-Tool](https://github.com/fabrytoolbox/MP4-Repair-Tool)** - MP4-Repair-Tool (Untrunc Edition) - Recupero video X/Twitter
-
+- **[Matrix-YouTube-Downloader](https://github.com/fabrytoolbox/Matrix-YouTube-Downloader)** - Downloader video/audio da YouTube e altri siti con GUI Matrix
+  
 ## 🎨 Interfaccia & UI
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
 - **[Neo-Locale-Switcher](https://github.com/fabrytoolbox/Neo-Locale-Switcher)** — Cambia layout tastiera e impostazioni regionali con stile Matrix
