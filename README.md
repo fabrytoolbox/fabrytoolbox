@@ -43,6 +43,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 ## 🎨 Interfaccia & UI
 - **[AppletBar-Matrix](https://github.com/fabrytoolbox/AppletBar-Matrix)** — Sidebar personalizzata - Matrix High-Contrast UI
 - **[Neo-Locale-Switcher](https://github.com/fabrytoolbox/Neo-Locale-Switcher)** — Cambia layout tastiera e impostazioni regionali con stile Matrix
+- **[Matrix-Dashboard](https://github.com/fabrytoolbox/Matrix-Dashboard)** — Launcher GUI e Manager per i tool del Fabry Toolbox
 
 ## 🤖 Dati & AI
 - **[DeepSeek-Chat-Exporter](https://github.com/fabrytoolbox/DeepSeek-Chat-Exporter)** — Converte le conversazioni estratte da DeepSeek in TXT o in HTML
