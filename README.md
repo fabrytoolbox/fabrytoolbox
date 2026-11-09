@@ -11,6 +11,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Audio-Silence-Tools](https://github.com/fabrytoolbox/Audio-Silence-Tools)** — Rileva e toglie i silenzi in testa e coda degli MP3
 - **[Matrix-Audio-Converter](https://github.com/fabrytoolbox/Matrix-Audio-Converter)** Convertitore audio multi-formato con GUI Matrix
 - **[CUE-Splitter](https://github.com/fabrytoolbox/CUE-Splitter)** Estrattore di tracce audio da file FLAC/CUE con GUI Matrix Style
+- **[ID3-Editor](https://github.com/fabrytoolbox/ID3-Editor)** Editor di metadati ID3 per file MP3 con GUI Matrix
   
 ## 🖥️ Sistema
 - **[IsoMounter-Matrix]( https://github.com/fabrytoolbox/IsoMounter-Matrix)** — Monta e smonta ISO con GUI Matrix, log e pulizia automatica
