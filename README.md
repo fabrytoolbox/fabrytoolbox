@@ -30,6 +30,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 
 ### 🌐 Rete
 - **[MATRIX_HOSTS](https://github.com/fabrytoolbox/MATRIX_HOSTS)** — Gestione file hosts con GUI Matrix, validazione e backup.
+- **[Proxy-Manager](https://github.com/fabrytoolbox/Proxy-Manager)** — Gestore Proxy di Sistema con GUI Matrix e Profili
 - **[NetAdapter-Manager v1.2](https://github.com/fabrytoolbox/NetAdapter-Manager)** — Gestione Schede di rete con toggle Attiva/Disattiva, anti-lockout e GUI Matrix
 
 ## 🖥️ Video
