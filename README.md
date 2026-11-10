@@ -24,6 +24,7 @@ Da oggi le condivido perché so che altri hanno lo stesso problema.
 - **[Spotlight-Reset](https://github.com/fabrytoolbox/Spotlight-Reset)** — Resetta la cache di Windows Spotlight e riavvia Esplora risorse
 - **[Win11-Start-Repair](https://github.com/fabrytoolbox/Win11-Start-Repair)** — Ripara i componenti di Windows e registra i pacchetti AppX (menu Start)
 - **[List-Applications-GUI](https://github.com/fabrytoolbox/List-Applications-GUI)** — Task Manager "umano" con GUI Matrix.
+- **[SystemInfo-GUI](https://github.com/fabrytoolbox/SystemInfo)** — Inventario hardware e software del PC con GUI Matrix
 
 ### 🛠️ Dev Tools
 - **[New-FabryRepo](https://github.com/fabrytoolbox/New-FabryRepo)** — Generatore universale di scaffolding per nuovi progetti PowerShell.
